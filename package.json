@@ -1,0 +1,12 @@
+{
+  "type":"module",
+  "name": "pumpkin-meme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Shikhar Verma",
+  "license": "ISC"
+}
