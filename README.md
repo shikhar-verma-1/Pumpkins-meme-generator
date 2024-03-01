@@ -1,7 +1,7 @@
 
 # Purrfect Meme Generator
 
-Purrfect meme generator app 
+Purrfect meme generator app lets a user choose an emotion and generates the related cat meme on the page. 
 
 
 ## Demo 
